@@ -1,1 +1,1 @@
-hello git, this is updated content
+hello git
